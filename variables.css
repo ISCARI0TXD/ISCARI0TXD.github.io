@@ -1,14 +1,14 @@
 :root {
   /** colors */
   --color-name: custom;
-  --color-bg-shade: #000000;
-  --color-bg-base: #000000;
-  --color-bg-surface: #000000;
-  --color-bg-highlight: #000000;
-  --color-fg-shade: #000000;
-  --color-fg-base: #000000;
-  --color-fg-surface: #000000;
-  --color-fg-highlight: #000000;
+  --color-bg-shade: #20222B;
+  --color-bg-base: #282A36;
+  --color-bg-surface: #303241;
+  --color-bg-highlight: #383B4C;
+  --color-fg-shade: #90908D;
+  --color-fg-base: #B3B3B1;
+  --color-fg-surface: #D6D6D5;
+  --color-fg-highlight: #F9F9F9;
   --color-primary-bg: #7300B6;
   --color-primary-base: #C96EFF;
   --color-primary-fg: #FFFFFF;
